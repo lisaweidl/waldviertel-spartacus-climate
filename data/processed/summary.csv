@@ -1,0 +1,4 @@
+,mean,trend_per_decade,p_value,min_cell_mean,max_cell_mean,cells_significant_pct,cell_trend_range,cell_trend_range_pct
+TM,9.1,0.74,0.0,7.3,11.2,100.0,0.67 – 0.80,
+RR,632.8,-10.49,0.4788,494.0,937.4,0.0,,-6.3 – 1.7
+SA,1833.0,44.44,0.101,1353.0,2000.9,,,

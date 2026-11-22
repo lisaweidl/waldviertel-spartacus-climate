@@ -1,0 +1,5 @@
+station,variable,n_years,bias_grid_minus_station,pearson_r
+Horn,TM,18,0.67,0.914
+Horn,RR,18,18.83,0.895
+Gars am Kamp,TM,15,0.7,0.979
+Gars am Kamp,RR,15,18.47,0.918
